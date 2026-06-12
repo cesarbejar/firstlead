@@ -1,4 +1,4 @@
-# firstlead-onboarding-agent
+# firstlead-new-manager-onboarding-agent
 Project for the 2026 Microsoft Skillfest Hackaton
 FirstLead by The Skillful Manager Academy
 A New Manager Onboarding Agent — powered by Microsoft Copilot
