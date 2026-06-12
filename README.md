@@ -8,7 +8,7 @@ FirstLead is a Microsoft Copilot agent developed by The Skillful Manager Academy
 
 Built on the Academy's proven leadership development methodology, FirstLead makes expert-level manager coaching accessible to every organization at enterprise scale — with no custom code required.
 
-The Problem
+## The Problem
 Organizations invest significantly in identifying and promoting talented people into management — and then leave them to figure out leadership on their own. Most new manager onboarding consists of a welcome email, an org chart, and a hope that things go well.
 
 Cesar Bejar, founder of The Skillful Manager Academy, has observed this pattern across more than 30 years working in Organizational Development and HR. Since launching the Academy in March 2023, that experience has been formalized into a curriculum built specifically to close this gap:
@@ -20,7 +20,7 @@ The cost of failed or struggling managers is absorbed silently through team dise
 
 FirstLead was built to solve this — not as a training event, but as a persistent, intelligent coaching presence available every day.
 
-The Solution
+## The Solution
 FirstLead embeds The Skillful Manager Academy's leadership development framework directly into Microsoft Teams as a Copilot agent. Every new manager receives the same high-quality, structured onboarding experience — regardless of location, department, or whether their organization has a dedicated HR business partner.
 
 The Three-Phase Journey
@@ -59,7 +59,7 @@ Most onboarding tools are repositories — document libraries the new manager is
 
 The coaching content is not generic AI output. It is drawn from The Skillful Manager Academy's proprietary curriculum — decades of real-world leadership development experience translated into conversational guidance that new managers can apply immediately.
 
-Demo
+## Demo
 📹 Watch the demo video (link to recording)
 
 The demo covers:
@@ -81,13 +81,13 @@ What it means in practice 4: One configuration supports the entire organization
 Outcome 5: Measurable development data
 What it means in practice 5: 60- and 90-day reflections create a coaching record over time
 
-About The Skillful Manager Academy
+## About The Skillful Manager Academy
 The Skillful Manager Academy was founded in March 2023 by Cesar Bejar, a leadership development practitioner with over 30 years of experience in Organizational Development, HR, change management, and generational diversity. The Academy was built to formalize that experience into a structured curriculum — equipping managers at every level with the practical skills, frameworks, and confidence needed to lead effectively in today's workplace.
 
 Cesar has studied Artificial Intelligence at Johns Hopkins University and created FirstLead as a direct expression of the Academy's mission: making skilled management accessible to every organization, at scale.
 🌐 theskillfulmanager.com
 
-Setup & Deployment
+## Setup & Deployment
 To replicate FirstLead in your Microsoft 365 tenant using Copilot Studio:
 
 1. Sign in to copilotstudio.microsoft.com
@@ -100,7 +100,13 @@ To replicate FirstLead in your Microsoft 365 tenant using Copilot Studio:
 
 Configuration screenshots and topic flow diagrams are included in the /docs folder.
 
-License
+## License
 MIT License — organizations are encouraged to adapt and deploy FirstLead within their Microsoft 365 environment.
 
 FirstLead is a project by Cesar Bejar - The Skillful Manager Academy, submitted to the Microsoft AI Skillfest — Agents League Hackathon, Enterprise Agents Track, June 2026.
+
+## AI Tools Used
+This project was built with assistance from:
+- Microsoft Copilot Studio (agent builder)
+- Claude by Anthropic (project planning, 
+  content writing, and documentation)
